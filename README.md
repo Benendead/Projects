@@ -13,3 +13,4 @@ The definitive list of all current and past projects I'm working on.
 * Generating Music using LSTMs or RNNs.
 * Reinforcement learning agent in Unity.
 * Composition app augmented by generative ML interaction (This one's a long way off)
+* GAN optimization methods, CycleGAN or DiscoGAN
