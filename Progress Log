@@ -1,6 +1,6 @@
 # Current Projects Journal
 1. Gentrification Analysis using Neural Networks/Data Science.
-Last worked on: 10/23/2018. Total time: 3 hours
+Last worked on: 10/24/2018. Total time: 4 hours
 
 10/19/2018 - I spent an hour setting up this document before beginning some background research into the causes and effects of 
 gentrification. Also sent out messages to a few sources asking for any considerations I should make in order to remain 
@@ -13,5 +13,11 @@ here, which is simultaneously promising and daunting because I'll need to differ
 
 10/23/2018 - Spent the hour today studying what APIs are by following through about half of an hour-long video on Web APIs. 
 I've so far learned the basic processes for using and meaning of web APIs as well as a few examples of how they can be used.
+
+10/24/2018 - In my hour today, I finished the API video and read multiple articles on uses of big data on analyzing city 
+dynamics. I've compiled a number of sources on both big data uses relating to cities and some on useful APIs. These two 
+avenues will round out my knowledge on what's been done in this area of study and similarly give me some ideas for the tools 
+already out there regarding API access to datasets/insights. I plan to read through what I've gathered before cutting myself 
+off, considering my options, and beginning to develop my own ideas for the project. That's the path forward.
 
 2. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
