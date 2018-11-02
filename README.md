@@ -2,7 +2,8 @@
 The definitive list of all current and past projects I'm working on.
 
 ### Current Projects:
-* Gentrification Analysis using Neural Networks.
+* LSTMjazz - Generating jazz improv using LSTMs. Also creating a Raspberry Pi system to eventually input chords live.
+* Gentrification Analysis using Neural Networks. Hope to learn some APIs as well as some urban infrastructure insights.
 * Blocktr[AI]n - A library for Keras models using some variation on Blockchain.
 
 ### Completed Projects:
@@ -10,7 +11,6 @@ The definitive list of all current and past projects I'm working on.
 * Perceptron Demo - Just a simple perceptron I coded which can classify linear relationships. (Python, matplotlib, numpy)
 
 ### Future Ideas/Interests:
-* Generating Music using LSTMs or RNNs.
 * Reinforcement learning agent in Unity.
 * Composition app augmented by generative ML interaction (This one's a long way off)
 * GAN optimization methods, CycleGAN or DiscoGAN
