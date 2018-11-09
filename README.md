@@ -6,6 +6,8 @@ The definitive list of all current and past projects I'm working on.
 * Gentrification Analysis using Data Science - Learning about APIs as well as some urban infrastructure insights.
 * Blocktr[AI]n - A library for Keras models using some variations on the Blockchain model. Very much a proof-of-concept as 
 opposed to a full working prototype.
+* Decision Trees in Pandas - Learning data manipulation, decision trees, and eventually random forests using Kaggle's Titanic 
+dataset.
 
 ### Completed Projects:
 * MNIST Classifier using Keras - Also includes instructions for data preprocessing and Kaggle submission. I did studied to 
