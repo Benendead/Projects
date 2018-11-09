@@ -34,4 +34,10 @@ Last worked on: 11/3/2018. Total time: 1 hour
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
 an independent goal-oriented project.
 
-3. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
+3. Random Forests on the Kaggle Titanic Dataset - Implementing decision trees and manipulating data using Pandas.
+Last worked on: 11/9/2018. Total time: 2h25min
+
+11/9/2018 - Revamped previous efforts on the project, reformatting it for presentation at the UDSC. Next step is still to 
+implement the actual Decision Tree class, but Gini is working. Maybe also categorize other categories if possible?
+
+4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
