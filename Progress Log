@@ -1,6 +1,6 @@
 # Current Projects Journal
 1. Gentrification Analysis using Neural Networks/Data Science.
-Last worked on: 10/24/2018. Total time: 5 hours
+Last worked on: 11/3/2018. Total time: 5 hours
 
 10/19/2018 - I spent an hour setting up this document before beginning some background research into the causes and effects of 
 gentrification. Also sent out messages to a few sources asking for any considerations I should make in order to remain 
@@ -28,11 +28,17 @@ determine to what degree we can segment and therefore evaluate our final predict
 clustering is as accurate and specific as possible.
 
 2. LSTMjazz - Working to generate jazz improv using ML somehow.
-Last worked on: 11/3/2018. Total time: 1 hour
+Last worked on: 11/10/2018. Total time: 2.5 hours
 
 11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
 an independent goal-oriented project.
+
+11/10/2018 - Spent an hour and a half working on installing MuseScore and Lilypond into the environment of a Colab notebook. 
+It's quite a hassle, clearly, but my goal here is to give the notebook the ability to display PNGs of the music that's going 
+on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point 
+where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
+PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
 
 3. Random Forests on the Kaggle Titanic Dataset - Implementing decision trees and manipulating data using Pandas.
 Last worked on: 11/9/2018. Total time: 2h25min
