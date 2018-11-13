@@ -18,3 +18,4 @@ ensure that I understood all algorithms used, including CNNs, Dropout, and the A
 * Reinforcement learning agent in Unity.
 * Composition app augmented by generative ML interaction (This one's a long way off)
 * GAN optimization methods, CycleGAN or DiscoGAN
+* Linguistics semantic/syntactic rules as logic statements --> Binary trees?
