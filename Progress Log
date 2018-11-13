@@ -41,9 +41,13 @@ where the two applications/packages are installed and referenced properly for mu
 PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
 
 3. Random Forests on the Kaggle Titanic Dataset - Implementing decision trees and manipulating data using Pandas.
-Last worked on: 11/9/2018. Total time: 2h25min
+Last worked on: 11/12/2018. Total time: 3h25min
 
 11/9/2018 - Revamped previous efforts on the project, reformatting it for presentation at the UDSC. Next step is still to 
 implement the actual Decision Tree class, but Gini is working. Maybe also categorize other categories if possible?
+
+11/12/2018 - Spent an hour studying Pandas syntax and useful methods. I'll be presenting this project this Friday at the UDSC 
+and I'll need to better understand Pandas prior to presenting about it. Made some tweaks to the notebook to clean things up 
+and add useful information/resources. I'll need about two hours more to finish the Kaggle Pandas tutorial I'm going through. 
 
 4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
