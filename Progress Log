@@ -7,7 +7,7 @@ gentrification. Also sent out messages to a few sources asking for any considera
 socially conscious of any broad pictures I might otherwise fail to consider. Seems like an interesting topic with a ton of 
 possible avenues for exploration.
 
-10/22/2018 - Another hour gentrification, this time finishing the first overview article and beginning another on one 
+10/22/2018 - Another hour on gentrification, this time finishing the first overview article and beginning another on one 
 approach which used Yelp reviews to quantify gentrification. There's certainly research related to what I'd like to study 
 here, which is simultaneously promising and daunting because I'll need to differentiate my methods explicitly.
 
@@ -28,7 +28,7 @@ determine to what degree we can segment and therefore evaluate our final predict
 clustering is as accurate and specific as possible.
 
 2. LSTMjazz - Working to generate jazz improv using ML somehow.
-Last worked on: 11/10/2018. Total time: 2.5 hours
+Last worked on: 11/17/2018. Total time: 3.5 hours
 
 11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
@@ -39,6 +39,10 @@ It's quite a hassle, clearly, but my goal here is to give the notebook the abili
 on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point 
 where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
 PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
+
+11/17/2018 - Wasted an hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
+for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
+if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
 
 3. Random Forests on the Kaggle Titanic Dataset - Implementing decision trees and manipulating data using Pandas.
 Last worked on: 11/16/2018. Total time: 7 hours
