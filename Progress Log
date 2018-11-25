@@ -45,7 +45,7 @@ for resolving errors and there's zero support in every thread I read on the libr
 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
 
 3. Random Forests on the Kaggle Titanic Dataset - Implementing decision trees and manipulating data using Pandas.
-Last worked on: 11/16/2018. Total time: 7 hours
+Last worked on: 11/25/2018. Total time: 10 hours
 
 11/9/2018 - Revamped previous efforts on the project, reformatting it for presentation at the UDSC. Next step is still to 
 implement the actual Decision Tree class, but Gini is working. Maybe also categorize other categories if possible?
@@ -60,5 +60,10 @@ initial attempt at coding Gini Impurity. I've stopped just short of coding the a
 exactly how such an implementation's supposed to store the decisions and whatnot. I'll figure that out after presenting.
 
 11/16/2018 - 30min: Notebook completed as it will be presented today. Everything including information gain works as expected.
+
+11/25/2018 - 3hr: Over the past few days, since Thanksgiving, I've been reading through an in-depth article on all things 
+related to decision trees. It's been a great way to round out my knowledge on the topic so far and I feel like I'm really 
+getting these concepts finally in a comprehensive way. I've gone through a bunch and hope to finish soon before coding these 
+things out. Titanic's a good start but we should test our code on other datasets as well, once we're there.
 
 4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
