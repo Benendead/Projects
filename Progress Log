@@ -54,7 +54,7 @@ determine to what degree we can segment and therefore evaluate our final predict
 clustering is as accurate and specific as possible.
 
 3. LSTMjazz - Working to generate jazz improv using ML somehow.
-Last worked on: 11/17/2018. Total time: 3.5 hours
+Last worked on: 12/19/2018. Total time: 5 hours
 
 11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
@@ -69,5 +69,10 @@ PNG files that we're currently getting as a PosixPaths. Feels pretty close to do
 11/17/2018 - Wasted an hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
 for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
+
+12/19/2018: 1.5 hours - A little over a month later, I finally got back to this project. Today I managed to parse out both chords and 
+their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and perhaps encode 
+the melodies using a different library. I'll look into other works more substantially before booting up Keras this time. At 
+least today saw a bunch of progress.
 
 4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
