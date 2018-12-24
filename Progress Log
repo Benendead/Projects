@@ -1,7 +1,7 @@
 # Current Projects Journal
 1. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
 implementing them in Python. Also learning to manipulate data using Pandas.
-Last worked on: 12/17/2018. Total time: 11.5 hours
+Last worked on: 12/23/2018. Total time: 12h15m
 
 11/9/2018 - Revamped previous efforts on the project, reformatting it for presentation at the UDSC. Next step is still to 
 implement the actual Decision Tree class, but Gini is working. Maybe also categorize other categories if possible?
@@ -24,6 +24,10 @@ things out. Titanic's a good start but we should test our code on other datasets
 
 12/17/2018 - 90min: Continuing in the article, this time also reading some textbooks on cross-validation. I also read through 
 the entire notebook and reworded things that weren't ideal. Also covered random forests today; only a bit left to cover.
+
+12/23/2018 - 45min: Finished the intial article, moving into academic sources. First part has been on the ID3 algorithm. 
+Apparently gain ratio's better than information gain; who knew? This is formalizing the concepts I already covered, so it's a 
+good path. Probably three days left or fewer until I start coding these up. I should cut off at that point, I think.
 
 2. Gentrification Analysis using Neural Networks/Data Science.
 Last worked on: 11/3/2018. Total time: 5 hours
@@ -70,9 +74,9 @@ PNG files that we're currently getting as a PosixPaths. Feels pretty close to do
 for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
 
-12/19/2018: 1.5 hours - A little over a month later, I finally got back to this project. Today I managed to parse out both chords and 
-their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and perhaps encode 
-the melodies using a different library. I'll look into other works more substantially before booting up Keras this time. At 
-least today saw a bunch of progress.
+12/19/2018: 1.5 hours - A little over a month later, I finally got back to this project. Today I managed to parse out both 
+chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and 
+perhaps encode the melodies using a different library. I'll look into other works more substantially before booting up Keras 
+this time. At least today saw a bunch of progress.
 
 4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
