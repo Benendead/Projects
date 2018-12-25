@@ -1,5 +1,30 @@
 # Current Projects Journal
-1. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
+1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.
+Last worked on: 12/25/2018. Total time: 7 hours
+
+11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
+into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
+an independent goal-oriented project.
+
+11/10/2018 - Spent an hour and a half working on installing MuseScore and Lilypond into the environment of a Colab notebook. 
+It's quite a hassle, clearly, but my goal here is to give the notebook the ability to display PNGs of the music that's going 
+on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point 
+where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
+PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
+
+11/17/2018 - Wasted an hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
+for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
+if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
+
+12/19/2018: 1.5 hours - A little over a month later, I finally got back to this project. Today I managed to parse out both 
+chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and 
+perhaps encode the melodies using a different library. I'll look into other works more substantially before booting up Keras 
+this time. At least today saw a bunch of progress.
+
+12/25/2018: 2 hours - From yesterday into today, I've completed the chord processing method and I think the melody processing 
+can likely take a similar approach. This is a ton of progress and hopefully I can look into the LSTM side quite soon.
+
+2. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
 implementing them in Python. Also learning to manipulate data using Pandas.
 Last worked on: 12/23/2018. Total time: 12h15m
 
@@ -29,7 +54,7 @@ the entire notebook and reworded things that weren't ideal. Also covered random 
 Apparently gain ratio's better than information gain; who knew? This is formalizing the concepts I already covered, so it's a 
 good path. Probably three days left or fewer until I start coding these up. I should cut off at that point, I think.
 
-2. Gentrification Analysis using Neural Networks/Data Science.
+3. Gentrification Analysis using Neural Networks/Data Science.
 Last worked on: 11/3/2018. Total time: 5 hours
 
 10/19/2018 - I spent an hour setting up this document before beginning some background research into the causes and effects of 
@@ -56,27 +81,5 @@ hour researching previous methods for clustering neighborhoods. Data Iku has a g
 their methods before looking to additional ways I could cluster neighborhoods. My thought process is that the clustering will 
 determine to what degree we can segment and therefore evaluate our final prediction model. We thus need to ensure that the 
 clustering is as accurate and specific as possible.
-
-3. LSTMjazz - Working to generate jazz improv using ML somehow.
-Last worked on: 12/19/2018. Total time: 5 hours
-
-11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
-into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
-an independent goal-oriented project.
-
-11/10/2018 - Spent an hour and a half working on installing MuseScore and Lilypond into the environment of a Colab notebook. 
-It's quite a hassle, clearly, but my goal here is to give the notebook the ability to display PNGs of the music that's going 
-on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point 
-where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
-PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
-
-11/17/2018 - Wasted an hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
-for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
-if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
-
-12/19/2018: 1.5 hours - A little over a month later, I finally got back to this project. Today I managed to parse out both 
-chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and 
-perhaps encode the melodies using a different library. I'll look into other works more substantially before booting up Keras 
-this time. At least today saw a bunch of progress.
 
 4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
