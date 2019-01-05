@@ -1,6 +1,6 @@
 # Current Projects Journal
 1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.
-Last worked on: 01/03/2019. Total time: 13 hours
+Last worked on: 01/04/2019. Total time: 14 hours
 
 11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
@@ -38,6 +38,9 @@ papers I'd like to read this year. Pretty cool stuff and I'm excited to make thi
 
 01/03/2019: 1h - Continued into a second article going more in-depth into backprop of RNNs and RNNs themselves. So far it's 
 been useful yet not entirely difficult, as it's formalizing things the last article glossed over. Quite interesting so far.
+
+01/04/2019: 1h - Still reading this second article, which is giving more insight while missing a few points in a few places. 
+I can finish this one tomorrow and hopefully start coding within the next few days.
 
 2. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
 implementing them in Python. Also learning to manipulate data using Pandas.
