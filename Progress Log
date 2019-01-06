@@ -39,6 +39,9 @@ papers I'd like to read this year. Pretty cool stuff and I'm excited to make thi
 01/03/2019: 1h - Continued into a second article going more in-depth into backprop of RNNs and RNNs themselves. So far it's 
 been useful yet not entirely difficult, as it's formalizing things the last article glossed over. Quite interesting so far.
 
+01/05/2019: 1h - Began reading a research paper on using char- and word-RNNs to generate jazz chord progressions. Giving me a 
+lot of insight into using Keras for this, I'll definitely consider generating chords in my version as well.
+
 01/04/2019: 1h - Still reading this second article, which is giving more insight while missing a few points in a few places. 
 I can finish this one tomorrow and hopefully start coding within the next few days.
 
