@@ -2,29 +2,29 @@
 1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.
 Last worked on: 01/09/2019. Total time: 19 hours
 
-11/3/2018 - Spent an hour polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
+11/3/2018: 1h - Spent time polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
 an independent goal-oriented project.
 
-11/10/2018 - Spent an hour and a half working on installing MuseScore and Lilypond into the environment of a Colab notebook. 
+11/10/2018: 1.5h - Spent this time working on installing MuseScore and Lilypond into the environment of a Colab notebook. 
 It's quite a hassle, clearly, but my goal here is to give the notebook the ability to display PNGs of the music that's going 
 on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point 
 where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
 PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
 
-11/17/2018 - Wasted an hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
+11/17/2018: 1h - Wasted the hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
 for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
 
-12/19/2018: 1.5 hours - A little over a month later, I finally got back to this project. Today I managed to parse out both 
+12/19/2018: 1.5h - A little over a month later, I finally got back to this project. Today I managed to parse out both 
 chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and 
 perhaps encode the melodies using a different library. I'll look into other works more substantially before booting up Keras 
 this time. At least today saw a bunch of progress.
 
-12/25/2018: 2 hours - From yesterday into today, I've completed the chord processing method and I think the melody processing 
+12/25/2018: 2h - From yesterday into today, I've completed the chord processing method and I think the melody processing 
 can likely take a similar approach. This is a ton of progress and hopefully I can look into the LSTM side quite soon.
 
-12/27/2018: 1 hour - Reading articles on LSTMs to make sure I understand the math/theory of what I'm getting into. They seem 
+12/27/2018: 1h - Reading articles on LSTMs to make sure I understand the math/theory of what I'm getting into. They seem 
 pretty complicated, but that's not to say difficult to understand. Just a bunch of steps.
 
 12/28/2018: 2h - Worked on formatting songs for their notes. First found ranges of songs, then adjusted those that were too 
@@ -53,7 +53,7 @@ also generate new melodies. They encoded their chords/melodies really similar to
 second hour, I finished another resource explaining LSTMs and moved into another to cover my fundamentals. I also have a bunch 
 of resources lined up to fill me in on various technical sides to LSTMs should I research into this further later.
 
-01/09/2018 - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to exclusively 
+01/09/2018: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to exclusively 
 concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and also 
 continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
 
@@ -64,51 +64,51 @@ Last worked on: 12/23/2018. Total time: 12h15m
 11/9/2018 - Revamped previous efforts on the project, reformatting it for presentation at the UDSC. Next step is still to 
 implement the actual Decision Tree class, but Gini is working. Maybe also categorize other categories if possible?
 
-11/12/2018 - Spent an hour studying Pandas syntax and useful methods. I'll be presenting this project this Friday at the UDSC 
+11/12/2018: 1h - Spent time studying Pandas syntax and useful methods. I'll be presenting this project this Friday at the UDSC 
 and I'll need to better understand Pandas prior to presenting about it. Made some tweaks to the notebook to clean things up 
 and add useful information/resources. I'll need about two hours more to finish the Kaggle Pandas tutorial I'm going through.
 
-11/15/2018 - I spent a total of three hours finishing off the end of the notebook as it will be presented tomorrow. I've added 
+11/15/2018: 3h - I spent the time finishing off the end of the notebook as it will be presented tomorrow. I've added 
 methods to calculate entropy and information gain, engineered a few useful features, and cleaned up the mess that was my 
 initial attempt at coding Gini Impurity. I've stopped just short of coding the actual decision tree class. Frankly, I'm unsure 
 exactly how such an implementation's supposed to store the decisions and whatnot. I'll figure that out after presenting.
 
-11/16/2018 - 30min: Notebook completed as it will be presented today. Everything including information gain works as expected.
+11/16/2018: 30min - Notebook completed as it will be presented today. Everything including information gain works as expected.
 
-11/25/2018 - 3hr: Over the past few days, since Thanksgiving, I've been reading through an in-depth article on all things 
+11/25/2018: 3hr - Over the past few days, since Thanksgiving, I've been reading through an in-depth article on all things 
 related to decision trees. It's been a great way to round out my knowledge on the topic so far and I feel like I'm really 
 getting these concepts finally in a comprehensive way. I've gone through a bunch and hope to finish soon before coding these 
 things out. Titanic's a good start but we should test our code on other datasets as well, once we're there.
 
-12/17/2018 - 90min: Continuing in the article, this time also reading some textbooks on cross-validation. I also read through 
+12/17/2018: 90min - Continuing in the article, this time also reading some textbooks on cross-validation. I also read through 
 the entire notebook and reworded things that weren't ideal. Also covered random forests today; only a bit left to cover.
 
-12/23/2018 - 45min: Finished the intial article, moving into academic sources. First part has been on the ID3 algorithm. 
+12/23/2018: 45min - Finished the intial article, moving into academic sources. First part has been on the ID3 algorithm. 
 Apparently gain ratio's better than information gain; who knew? This is formalizing the concepts I already covered, so it's a 
 good path. Probably three days left or fewer until I start coding these up. I should cut off at that point, I think.
 
 3. Gentrification Analysis using Neural Networks/Data Science.
 Last worked on: 11/3/2018. Total time: 5 hours
 
-10/19/2018 - I spent an hour setting up this document before beginning some background research into the causes and effects of 
+10/19/2018: 1h - I began by setting up this document before beginning some background research into the causes and effects of 
 gentrification. Also sent out messages to a few sources asking for any considerations I should make in order to remain 
 socially conscious of any broad pictures I might otherwise fail to consider. Seems like an interesting topic with a ton of 
 possible avenues for exploration.
 
-10/22/2018 - Another hour on gentrification, this time finishing the first overview article and beginning another on one 
+10/22/2018: 1h - Another hour on gentrification, this time finishing the first overview article and beginning another on one 
 approach which used Yelp reviews to quantify gentrification. There's certainly research related to what I'd like to study 
 here, which is simultaneously promising and daunting because I'll need to differentiate my methods explicitly.
 
-10/23/2018 - Spent the hour today studying what APIs are by following through about half of an hour-long video on Web APIs. 
+10/23/2018: 1h - Spent the hour today studying what APIs are by following through about half of an hour-long video on Web APIs. 
 I've so far learned the basic processes for using and meaning of web APIs as well as a few examples of how they can be used.
 
-10/24/2018 - In my hour today, I finished the API video and read multiple articles on uses of big data on analyzing city 
+10/24/2018: 1h - In my hour today, I finished the API video and read multiple articles on uses of big data on analyzing city 
 dynamics. I've compiled a number of sources on both big data uses relating to cities and some on useful APIs. These two 
 avenues will round out my knowledge on what's been done in this area of study and similarly give me some ideas for the tools 
 already out there regarding API access to datasets/insights. I plan to read through what I've gathered before cutting myself 
 off, considering my options, and beginning to develop my own ideas for the project. That's the path forward.
 
-11/3/2018 - I went through the sources on useful APIs and decided pretty quickly that I'll need to and want to find the APIs 
+11/3/2018: 1h - I went through the sources on useful APIs and decided pretty quickly that I'll need to and want to find the APIs 
 relevant to this project on my own; broad API lists aren't very specialized. After this realization, I spent the rest of the 
 hour researching previous methods for clustering neighborhoods. Data Iku has a great example on this, and I'll read through 
 their methods before looking to additional ways I could cluster neighborhoods. My thought process is that the clustering will 
