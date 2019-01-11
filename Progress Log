@@ -12,9 +12,9 @@ on. I feel like this is an important piece to make the data accessible, so I'll 
 where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
 PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
 
-11/17/2018: 1h - Wasted the hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice 
-for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 
-if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
+11/17/2018: 1h - Wasted the hour continuing to try to get Music21 working. At almost every turn, the documentation gives no 
+advice for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon 
+Music21 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
 
 12/19/2018: 1.5h - A little over a month later, I finally got back to this project. Today I managed to parse out both 
 chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and 
@@ -48,14 +48,18 @@ lot of insight into using Keras for this, I'll definitely consider generating ch
 01/06/2019: 1h - Again finished the first research paper and am into the second. These both make sense so far and continue to 
 expand my expectations of what I'll be able to do in this project. Hyped.
 
-01/08/2018: 2h - Spent the first hour reading the second research paper, which used LSTM to recreate a chord progression and 
+01/08/2019: 2h - Spent the first hour reading the second research paper, which used LSTM to recreate a chord progression and 
 also generate new melodies. They encoded their chords/melodies really similar to how I planned to, which is promising. In the 
 second hour, I finished another resource explaining LSTMs and moved into another to cover my fundamentals. I also have a bunch 
 of resources lined up to fill me in on various technical sides to LSTMs should I research into this further later.
 
-01/09/2018: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to exclusively 
-concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and also 
-continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
+01/09/2019: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to 
+exclusively concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and 
+also continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
+
+01/10/2019: 1h - I completed the first paper to use LSTMs to compose new music and am now reading something from 2010 about 
+the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more 
+fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too.
 
 2. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
 implementing them in Python. Also learning to manipulate data using Pandas.
@@ -99,8 +103,8 @@ possible avenues for exploration.
 approach which used Yelp reviews to quantify gentrification. There's certainly research related to what I'd like to study 
 here, which is simultaneously promising and daunting because I'll need to differentiate my methods explicitly.
 
-10/23/2018: 1h - Spent the hour today studying what APIs are by following through about half of an hour-long video on Web APIs. 
-I've so far learned the basic processes for using and meaning of web APIs as well as a few examples of how they can be used.
+10/23/2018: 1h - Spent time today studying what APIs are by following through about half of an hour-long video on Web APIs. 
+I've so far learned the meaning of and the basic processes using web APIs as well as a few examples of how they can be used.
 
 10/24/2018: 1h - In my hour today, I finished the API video and read multiple articles on uses of big data on analyzing city 
 dynamics. I've compiled a number of sources on both big data uses relating to cities and some on useful APIs. These two 
@@ -108,11 +112,11 @@ avenues will round out my knowledge on what's been done in this area of study an
 already out there regarding API access to datasets/insights. I plan to read through what I've gathered before cutting myself 
 off, considering my options, and beginning to develop my own ideas for the project. That's the path forward.
 
-11/3/2018: 1h - I went through the sources on useful APIs and decided pretty quickly that I'll need to and want to find the APIs 
-relevant to this project on my own; broad API lists aren't very specialized. After this realization, I spent the rest of the 
-hour researching previous methods for clustering neighborhoods. Data Iku has a great example on this, and I'll read through 
-their methods before looking to additional ways I could cluster neighborhoods. My thought process is that the clustering will 
-determine to what degree we can segment and therefore evaluate our final prediction model. We thus need to ensure that the 
-clustering is as accurate and specific as possible.
+11/3/2018: 1h - I went through the sources on useful APIs and decided pretty quickly that I'll need to and want to find the 
+APIs relevant to this project on my own; broad API lists aren't very specialized. After this realization, I spent the rest of 
+the hour researching previous methods for clustering neighborhoods. Data Iku has a great example on this, and I'll read 
+through their methods before looking to additional ways I could cluster neighborhoods. My thought process is that the 
+clustering will determine to what degree we can segment and therefore evaluate our final prediction model. We thus need to 
+ensure that the clustering is as accurate and specific as possible.
 
 4. Blocktr[AI]n - A library for Keras models using some variation on Blockchain. Total time: 0 hours
