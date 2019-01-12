@@ -1,6 +1,6 @@
 # Current Projects Journal
 1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.
-Last worked on: 01/10/2019. Total time: 20 hours
+Last worked on: 01/11/2019. Total time: 21 hours
 
 11/3/2018: 1h - Spent time polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
 into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
@@ -61,6 +61,7 @@ also continued a marginal amount into the melody/chords LSTM application paper. 
 the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more 
 fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too.
 -20h mark-
+01/11/2019: 1h - Continuing the article on DBNs. Their music encoding method might be worth trying out myself.
 
 2. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
 implementing them in Python. Also learning to manipulate data using Pandas.
