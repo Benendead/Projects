@@ -2,9 +2,9 @@
 The definitive list of all current and past projects I'm working on.
 
 ### Current Projects:
+* LSTMjazz - Generating jazz improv using LSTMs. Also creating a Raspberry Pi system to eventually input chords live.
 * Decision Trees in Pandas - Learning about data manipulation, creating my own implementation of decision trees and eventually 
 random forests using Kaggle's Titanic dataset.
-* LSTMjazz - Generating jazz improv using LSTMs. Also creating a Raspberry Pi system to eventually input chords live.
 * Gentrification Analysis using Data Science - Learning about APIs as well as some urban infrastructure insights.
 * Blocktr[AI]n - A library for Keras models using some variations on the Blockchain model. Very much a proof-of-concept as 
 opposed to a full working prototype.
