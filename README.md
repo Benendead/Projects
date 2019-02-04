@@ -1,7 +1,7 @@
 # Projects
 The definitive list of all current and past projects I'm working on.
 
-### Current Projects:
+## Current Projects:
 * LSTMjazz - Generating jazz improv using LSTMs. Many hours of research and coding are still going strong...
 
 ### Completed Projects:
@@ -9,7 +9,7 @@ The definitive list of all current and past projects I'm working on.
 ensure that I understood all algorithms used, including CNNs, Dropout, and the Adam optimizer. (Python, Keras)
 * Perceptron Demo - A simple perceptron I coded which can classify linear relationships. (Python, matplotlib, numpy)
 
-## Projects on Ice:
+### Projects on Ice:
 * Decision Trees in Pandas - Learning about data manipulation, creating my own implementation of decision trees and eventually 
 random forests using Kaggle's Titanic dataset.
 * Gentrification Analysis using Data Science - Learning about APIs as well as some urban infrastructure insights.
