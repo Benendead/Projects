@@ -15,7 +15,7 @@ Last worked on: 02/03/2019. Total time: 43.5 hours
 12/27/2018: 1h - Reading articles on LSTMs to make sure I understand the math/theory of what I'm getting into. They seem pretty complicated, but that's not to say difficult to understand. Just a bunch of steps.
 
 12/28/2018: 2h - Worked on formatting songs for their notes. First found ranges of songs, then adjusted those that were too low up so that they're all playable on alto sax, hypothetically. Used Matplotlib for some visuals on the ranges.  
-*-10h mark-*
+*-10h mark-*  
 12/31/2018: 1h - Revised a new version of the chord processing method as to process the notes as well. Also added labels to the notebook's graphs. All that's left is to export the arrays to .csv files and that should be data preprocessing done.
 
 01/01/2019: 1h - Finished the first article on LSTMs, looked into a few variants of the model, and found multiple research papers I'd like to read this year. Pretty cool stuff and I'm excited to make this year my best yet for ML learning.
@@ -33,7 +33,7 @@ Last worked on: 02/03/2019. Total time: 43.5 hours
 01/09/2019: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to exclusively concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and also continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
 
 01/10/2019: 1h - I completed the first paper to use LSTMs to compose new music and am now reading something from 2010 about the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too.  
-*-20h mark-*
+*-20h mark-*  
 01/11/2019: 1h - Continuing the article on DBNs. Their music encoding method might be worth trying out myself.
 
 01/12/2019: 1h - Finished the paper on DBNs and I've now continued into a massive 56-page thesis on using LSTMs to generate melodies given certain chord progressions. This is by far the most promising and relevant work I've yet seen. Exciting stuff.
@@ -49,7 +49,7 @@ Last worked on: 02/03/2019. Total time: 43.5 hours
 01/17/2019: 1h - Continued to type up notes on the first of the papers I highlighted yesterday. I spent part of this time searching for the main author of the paper to email him a question about the methods described, and then sent the email to the student email left in the paper. Hopefully he still checks it. Regardless, I get char-RNNs now and the annealing mostly too.
 
 01/18/2019: 2h - I've written out almost all the notes on the second paper I highlighted. It's pretty complex and I'd need to learn about Seq2Seq to improve on its full results, but the LSTM usage is still useful. I'd like to read one more additional paper with new content before combing through what I've read and beginning to write up my own plans for where to start.
-*-31h mark-*
+*-31h mark-*  
 01/20/2019: 1h - Continuing into the last two papers (I found one with chord-based generation), I'm still looking forward to generating my own solutions. There's a necessary cutoff in researching where my own contribution is required; that point feels quite close. That's also where the real challenge begins.
 
 01/21/2019: 1h - This paper includes some major references to music theory and I'm inclined towards thinking that such considerations should be made more often in this kind of work. Also, embedding layers have come up again which is great.
@@ -67,7 +67,7 @@ Last worked on: 02/03/2019. Total time: 43.5 hours
 01/29/2019: 1h - Editing my code to tranpose songs as multiple papers suggest. Once this is formatted, will export to something Keras can read in and then use. Great to be back to coding.
 
 01/30/2019: 1h - Implemented methods to transpose everything to all 12 keys plus find the unique chords. Embedding will be ready soon, probably. Cool beans.
-*-40.5h mark-*
+*-40.5h mark-*  
 01/31/2019: 1h - Continued to format chords, considering the data format constantly as to enable both bit vector and string chord representations later on in preprocessing.
 
 02/02/2019: 1h - Token chord representations give a different number of unique chords than the bit vectors and thus I'll use the former for any kind of tonenization/embedding encoding. I'm now into writing methods to count up the number of beats each unique chord is used for across the expanded dataset.
