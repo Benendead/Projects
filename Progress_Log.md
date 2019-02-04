@@ -1,66 +1,41 @@
 # Current Projects Journal
-1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.
+1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.  
 Last worked on: 02/03/2019. Total time: 43.5 hours
 
-11/3/2018: 1h - Spent time polishing up the very beginning of the legacy file, learning Github basics, and beginning to look 
-into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into 
-an independent goal-oriented project.
+11/3/2018: 1h - Spent time polishing up the very beginning of the legacy file, learning Github basics, and beginning to look into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into an independent goal-oriented project.
 
-11/10/2018: 1.5h - Spent this time working on installing MuseScore and Lilypond into the environment of a Colab notebook. 
-It's quite a hassle, clearly, but my goal here is to give the notebook the ability to display PNGs of the music that's going 
-on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point 
-where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the 
-PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
+11/10/2018: 1.5h - Spent this time working on installing MuseScore and Lilypond into the environment of a Colab notebook. It's quite a hassle, clearly, but my goal here is to give the notebook the ability to display PNGs of the music that's going on. I feel like this is an important piece to make the data accessible, so I'll keep working on this. I just got to the point where the two applications/packages are installed and referenced properly for music21; up next is accessing and displaying the PNG files that we're currently getting as a PosixPaths. Feels pretty close to done.
 
-11/17/2018: 1h - Wasted the hour continuing to try to get Music21 working. At almost every turn, the documentation gives no 
-advice for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon 
-Music21 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
+11/17/2018: 1h - Wasted the hour continuing to try to get Music21 working. At almost every turn, the documentation gives no advice for resolving errors and there's zero support in every thread I read on the library. I'll definitely plan to abandon Music21 if I can't find a way to easily parse through what are now flattened chord/note streams. It's a whole thing.
 
-12/19/2018: 1.5h - A little over a month later, I finally got back to this project. Today I managed to parse out both 
-chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and 
-perhaps encode the melodies using a different library. I'll look into other works more substantially before booting up Keras 
-this time. At least today saw a bunch of progress.
+12/19/2018: 1.5h - A little over a month later, I finally got back to this project. Today I managed to parse out both chords and their durations from the .xml files. My plan moving forward is to process the .xml files through Music21 and perhaps encode the melodies using a different library. I'll look into other works more substantially before booting up Keras this time. At least today saw a bunch of progress.
 
-12/25/2018: 2h - From yesterday into today, I've completed the chord processing method and I think the melody processing 
-can likely take a similar approach. This is a ton of progress and hopefully I can look into the LSTM side quite soon.
+12/25/2018: 2h - From yesterday into today, I've completed the chord processing method and I think the melody processing can likely take a similar approach. This is a ton of progress and hopefully I can look into the LSTM side quite soon.
 
 12/27/2018: 1h - Reading articles on LSTMs to make sure I understand the math/theory of what I'm getting into. They seem 
 pretty complicated, but that's not to say difficult to understand. Just a bunch of steps.
 
-12/28/2018: 2h - Worked on formatting songs for their notes. First found ranges of songs, then adjusted those that were too 
-low up so that they're all playable on alto sax, hypothetically. Used Matplotlib for some visuals on the ranges.
--10h mark-
-12/31/2018: 1h - Revised a new version of the chord processing method as to process the notes as well. Also added labels to 
-the notebook's graphs. All that's left is to export the arrays to .csv files and that should be data preprocessing done.
+12/28/2018: 2h - Worked on formatting songs for their notes. First found ranges of songs, then adjusted those that were too low up so that they're all playable on alto sax, hypothetically. Used Matplotlib for some visuals on the ranges.  
+*-10h mark-*
+12/31/2018: 1h - Revised a new version of the chord processing method as to process the notes as well. Also added labels to the notebook's graphs. All that's left is to export the arrays to .csv files and that should be data preprocessing done.
 
-01/01/2019: 1h - Finished the first article on LSTMs, looked into a few variants of the model, and found multiple research 
-papers I'd like to read this year. Pretty cool stuff and I'm excited to make this year my best yet for ML learning.
+01/01/2019: 1h - Finished the first article on LSTMs, looked into a few variants of the model, and found multiple research papers I'd like to read this year. Pretty cool stuff and I'm excited to make this year my best yet for ML learning.
 
-01/03/2019: 1h - Continued into a second article going more in-depth into backprop of RNNs and RNNs themselves. So far it's 
-been useful yet not entirely difficult, as it's formalizing things the last article glossed over. Quite interesting so far.
+01/03/2019: 1h - Continued into a second article going more in-depth into backprop of RNNs and RNNs themselves. So far it's been useful yet not entirely difficult, as it's formalizing things the last article glossed over. Quite interesting so far.
 
-01/04/2019: 1h - Still reading this second article, which is giving more insight while missing a few points in a few places. 
-I can finish this one tomorrow and hopefully start coding within the next few days.
+01/04/2019: 1h - Still reading this second article, which is giving more insight while missing a few points in a few places. I can finish this one tomorrow and hopefully start coding within the next few days.
 
 01/05/2019: 1h - Began reading a research paper on using char- and word-RNNs to generate jazz chord progressions. Giving me a 
 lot of insight into using Keras for this, I'll definitely consider generating chords in my version as well.
 
-01/06/2019: 1h - Again finished the first research paper and am into the second. These both make sense so far and continue to 
-expand my expectations of what I'll be able to do in this project. Hyped.
+01/06/2019: 1h - Again finished the first research paper and am into the second. These both make sense so far and continue to expand my expectations of what I'll be able to do in this project. Hyped.
 
-01/08/2019: 2h - Spent the first hour reading the second research paper, which used LSTM to recreate a chord progression and 
-also generate new melodies. They encoded their chords/melodies really similar to how I planned to, which is promising. In the 
-second hour, I finished another resource explaining LSTMs and moved into another to cover my fundamentals. I also have a bunch 
-of resources lined up to fill me in on various technical sides to LSTMs should I research into this further later.
+01/08/2019: 2h - Spent the first hour reading the second research paper, which used LSTM to recreate a chord progression and also generate new melodies. They encoded their chords/melodies really similar to how I planned to, which is promising. In the second hour, I finished another resource explaining LSTMs and moved into another to cover my fundamentals. I also have a bunch of resources lined up to fill me in on various technical sides to LSTMs should I research into this further later.
 
-01/09/2019: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to 
-exclusively concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and 
-also continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
+01/09/2019: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to exclusively concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and also continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
 
-01/10/2019: 1h - I completed the first paper to use LSTMs to compose new music and am now reading something from 2010 about 
-the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more 
-fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too.
--20h mark-
+01/10/2019: 1h - I completed the first paper to use LSTMs to compose new music and am now reading something from 2010 about the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too.  
+*-20h mark-*
 01/11/2019: 1h - Continuing the article on DBNs. Their music encoding method might be worth trying out myself.
 
 01/12/2019: 1h - Finished the paper on DBNs and I've now continued into a massive 56-page thesis on using LSTMs to generate 
