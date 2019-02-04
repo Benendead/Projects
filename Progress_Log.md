@@ -48,7 +48,7 @@ Last worked on: 02/03/2019. Total time: 43.5 hours
 
 01/17/2019: 1h - Continued to type up notes on the first of the papers I highlighted yesterday. I spent part of this time searching for the main author of the paper to email him a question about the methods described, and then sent the email to the student email left in the paper. Hopefully he still checks it. Regardless, I get char-RNNs now and the annealing mostly too.
 
-01/18/2019: 2h - I've written out almost all the notes on the second paper I highlighted. It's pretty complex and I'd need to learn about Seq2Seq to improve on its full results, but the LSTM usage is still useful. I'd like to read one more additional paper with new content before combing through what I've read and beginning to write up my own plans for where to start.
+01/18/2019: 2h - I've written out almost all the notes on the second paper I highlighted. It's pretty complex and I'd need to learn about Seq2Seq to improve on its full results, but the LSTM usage is still useful. I'd like to read one more additional paper with new content before combing through what I've read and beginning to write up my own plans for where to start.  
 *-31h mark-*  
 01/20/2019: 1h - Continuing into the last two papers (I found one with chord-based generation), I'm still looking forward to generating my own solutions. There's a necessary cutoff in researching where my own contribution is required; that point feels quite close. That's also where the real challenge begins.
 
@@ -66,7 +66,7 @@ Last worked on: 02/03/2019. Total time: 43.5 hours
 
 01/29/2019: 1h - Editing my code to tranpose songs as multiple papers suggest. Once this is formatted, will export to something Keras can read in and then use. Great to be back to coding.
 
-01/30/2019: 1h - Implemented methods to transpose everything to all 12 keys plus find the unique chords. Embedding will be ready soon, probably. Cool beans.
+01/30/2019: 1h - Implemented methods to transpose everything to all 12 keys plus find the unique chords. Embedding will be ready soon, probably. Cool beans.  
 *-40.5h mark-*  
 01/31/2019: 1h - Continued to format chords, considering the data format constantly as to enable both bit vector and string chord representations later on in preprocessing.
 
