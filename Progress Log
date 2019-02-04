@@ -125,6 +125,9 @@ chord representations later on in preprocessing.
 use those for any kind of tonenization/embedding encoding. I'm now into writing methods to count up the number of beats each 
 unique chord is used for across the expanded dataset.
 
+02/03/2019: 1h - Optimization tweaks to speed up my implementations, added timers to all long processes, and created a better 
+graph of the chord durations across all songs. Next steps should focus on the possible melody representations.
+
 2. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then 
 implementing them in Python. Also learning to manipulate data using Pandas.
 Last worked on: 12/23/2018. Total time: 12h15m
