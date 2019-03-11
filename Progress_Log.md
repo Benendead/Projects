@@ -1,6 +1,6 @@
 # Current Projects Journal
 1. LSTMjazz - Working to generate jazz improv based on given chords using LSTM networks.  
-Last worked on: 02/25/2019. Total time: 50.5 hours
+Last worked on: 03/10/2019. Total time: 52.5 hours
 
 11/3/2018: 1h - Spent time polishing up the very beginning of the legacy file, learning Github basics, and beginning to look into alternative/additional datasets. Today was really just to begin the cleanup needed to transition a hackathon project into an independent goal-oriented project.
 
@@ -32,7 +32,7 @@ Last worked on: 02/25/2019. Total time: 50.5 hours
 
 01/09/2019: 1h - Finished the third full resource explaining LSTMs. I think my intuitions are covered and I plan to exclusively concentrate on code and applications until the project is complete. Cut out a few weak sources during the hour and also continued a marginal amount into the melody/chords LSTM application paper. I'm now somewhat close to coding, I think.
 
-01/10/2019: 1h - I completed the first paper to use LSTMs to compose new music and am now reading something from 2010 about the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too.  
+01/10/2019: 1h - I completed the first paper to use LSTMs to compose new music and am now reading something from 2010 about the use of deep belief networks (DBNs) to improvise over chords. It's a different approach but their problem is much more fundamentally mine and I should consider all possible paths forward. It's interesting to learn about another ML algorithm too. 
 *-20h mark-*  
 01/11/2019: 1h - Continuing the article on DBNs. Their music encoding method might be worth trying out myself.
 
@@ -87,6 +87,8 @@ Last worked on: 02/25/2019. Total time: 50.5 hours
 02/19/2019: 1h - Continued attempts to get the data out of the notebook onto Github or even my own machine have still failed. The .csv are exporting into the local Colab folders fine, and I found methods to get those folders working on their own, but both pushing to Github (authentification failing) or downloading to my laptop (string formatting) have not yet worked. I'll try formatting the filenames better, maybe linking Drive, but after that I'm not sure what else to try.
 
 02/25/2019: 1h - Uploaded datasets to Github, considering additional bit information encodings to give the LSTM an idea of where it is in each measure. This might help alleviate the issues our long-term dependencies otherwise create.
+*-50.5h mark-*  
+03/10/2019: 2h - Finally got back to work by studying how to sample the data for Keras and renaming the files for future convenience. Tomorrow I'll be able to test the sampling code I wrote today.
 
 2. Random Forests on the Kaggle Titanic Dataset - Developing an understanding of decision trees/random forests, and then implementing them in Python. Also learning to manipulate data using Pandas.  
 Last worked on: 12/23/2018. Total time: 12h15m
