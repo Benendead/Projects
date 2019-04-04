@@ -2,7 +2,7 @@
 The definitive list of all current and past projects I'm working on.
 
 ## Current Projects:
-* LSTMjazz - Generating jazz improv using LSTMs. Many hours of research and coding are still going strong...
+* LSTMjazz - Generating jazz improv using LSTMs. Many hours of research and coding done, plan to finish this summer. The workload's a bit much during the school year.
 
 ### Completed Projects:
 * MNIST Classifier using Keras - Also includes instructions for data preprocessing and Kaggle submission. I did studied to 
@@ -17,6 +17,7 @@ random forests using Kaggle's Titanic dataset.
 opposed to a full working prototype.
 
 ### Future Ideas/Interests:
+* Hands-free or single-hand controller for PS3/FPS games - Accessibility
 * Reinforcement learning agent in Unity.
 * Sightreading application that allows the practice of transposing as well (A first stab at app dev)
 * Composition app augmented by generative ML interaction (This one's a long way off)
